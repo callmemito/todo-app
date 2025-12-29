@@ -10,7 +10,10 @@
       "Bash(gh repo create:*)",
       "Bash(npm install:*)",
       "Bash(npm run deploy:*)",
-      "Bash(git push)"
+      "Bash(git push)",
+      "Bash(vercel --version:*)",
+      "Bash(vercel:*)",
+      "Bash(npm run build:*)"
     ]
   }
 }
